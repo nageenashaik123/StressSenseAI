@@ -1,7 +1,3 @@
-# StressSenseAI
-AI-Powered Student Stress Detection and Wellness Recommendation System
-Good idea. A GitHub README should show **Inputs, Workflow, Technologies, Outputs, Architecture, and Sample Results**. Use this improved version.
-
 # 🧠 StressSense AI
 
 ### AI-Powered Student Stress Detection and Wellness Recommendation System
@@ -364,7 +360,7 @@ StressSenseAI
 
 B.Tech Computer Science Engineering
 
-AI • Machine Learning • Data Science • ServiceNow
+AI • Machine Learning • Python • Agents
 
 This version looks much stronger for GitHub, internship reviews, hackathons, and recruiter portfolios because it clearly shows **inputs → processing → AI components → outputs → impact**.
 
